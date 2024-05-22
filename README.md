@@ -1,3 +1,10 @@
 # Втора лабораториска вежба по Софтверско инженерство
 # Сара Лазаревска 223225
-1. ![Untitled Diagram](https://github.com/SaraLazarevska/SI_2024_lab2_223225-/assets/139071135/9abde10a-a9f3-46d8-afdb-e80d8bd77b14)
+2. ![Untitled Diagram (1)](https://github.com/SaraLazarevska/SI_2024_lab2_223225-/assets/139071135/6f2cce92-a70e-45cb-9f4c-3a6c5a739550)
+3.  цикломатската комплексност = број на ребра - број на региони + 2
+   број на ребра = 40
+   број на јазли = 32
+   цикломатската комплексност = 40 - 32 + 2 = 10
+4. ![image](https://github.com/SaraLazarevska/SI_2024_lab2_223225-/assets/139071135/e177d5d1-aeaf-4067-9292-231690b52a1a)
+5. 
+
